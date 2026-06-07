@@ -19,7 +19,7 @@ export default function App() {
     <div className="min-h-screen bg-white text-gray-900">
       {/* Header */}
       <header className="flex items-center justify-between px-8 py-5 border-b border-gray-200">
-        <h1 className="text-sm font-semibold">Gatos</h1>
+        <h1 className="text-sm font-semibold">Gatinhos kkkkk</h1>
         <button
           onClick={() => setShowAddModal(true)}
           className="bg-gray-900 text-white text-sm px-4 py-2 rounded-md hover:bg-gray-700 cursor-pointer"
